@@ -1,5 +1,3 @@
---LOADING DATA INTO BRONZE LAIR
-
 /*
 ====================================================================================
 Stored Procedure: Load Data into Bronze Lair (Source-> Bronze)
