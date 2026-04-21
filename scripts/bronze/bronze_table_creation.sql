@@ -1,15 +1,9 @@
--- cst_id     cst_key cst_firstname cst_lastname cst_marital_status cst_gndr cst_create_date
---  prd_id           prd_key                     prd_nm  prd_cost prd_line prd_start_dt  prd_end_dt
--- sls_ord_num sls_prd_key  sls_cust_id  sls_order_dt  sls_ship_dt  sls_due_dt  sls_sales  sls_quantity  sls_price
---
---CREATING TABLE IN BRONZE LAIR
 
 /*
 ====================================================================================
 DDL SCRIPT: CREATE BRONZE TABLES
 ====================================================================================
 Purpose: Create tables in the 'bronze' schema, use check if table exist for each table
-
 */
 
 --CHECK IF TABLE EXIST
